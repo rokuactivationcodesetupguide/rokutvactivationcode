@@ -10,7 +10,7 @@ This guide explains the complete Roku activation and setup process, including ho
 
 .. image:: https://img.shields.io/badge/Activate%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
    :width: 200px
-  :align: center
+   :align: center
    :target: https://tv.activation-key.net/
    :alt: Activate Now Button
 
