@@ -9,15 +9,11 @@ Roku devices allow users to stream movies, TV shows, live channels, and other di
 This guide explains the complete Roku activation and setup process, including how to find the activation code, activate a Roku device, create an account, and troubleshoot common activation issues.
 
 
-.. image:: https://img.shields.io/badge/Login%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
-
+.. image:: https://img.shields.io/badge/Activate%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
    :width: 200px
-
    :align: center
-
-   :target: https://aclogportal.net/
-
-   :alt: Login Now Button
+   :target: https://tv.activation-key.net/
+   :alt: Activate Now Button
  
 
 
